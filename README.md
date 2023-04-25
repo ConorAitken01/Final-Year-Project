@@ -6,27 +6,28 @@ To access the running application first go into the Proof of Concept folder then
 
 # File Tree
 <pre>
-├───.idea
-├───.vscode
-├───face-match-bouncer-IDs
-│   ├───.idea
-│   ├───dataSet
-│   ├───FaceRecognitionFiles
-|   |   ├───createdb.py
-|   |   ├───createtable.py
-|   |   ├───facedata.py
-|   |   ├───facerecognisation.py
-|   |   └───facetrain.py
-│   ├───LightLevelCheck
-|   |   └───USBLight.py
-│   ├───OCR
-|   |   └───OCR.py
-│   ├───recognizer
-|   |   └───trainningData.yml
-|   ├───FaceBase.db
-|   ├───FaceRecogAll.py
-|   └───GUIWithTkinter.py
-└───venv
+├───Proof of Concept
+    ├───.idea
+    ├───.vscode
+    ├───face-match-bouncer-IDs
+    │   ├───.idea
+    │   ├───dataSet
+    │   ├───FaceRecognitionFiles
+    |   |   ├───createdb.py
+    |   |   ├───createtable.py
+    |   |   ├───facedata.py
+    |   |   ├───facerecognisation.py
+    |   |   └───facetrain.py
+    │   ├───LightLevelCheck
+    |   |   └───USBLight.py
+    │   ├───OCR
+    |   |   └───OCR.py
+    │   ├───recognizer
+    |   |   └───trainningData.yml
+    |   ├───FaceBase.db
+    |   ├───FaceRecogAll.py
+    |   └───GUIWithTkinter.py
+    └───venv
 </pre>
 
 # References
